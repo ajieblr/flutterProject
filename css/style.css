@@ -1,0 +1,77 @@
+.banner{
+    background-image: url("../img/jpg/bg.jpg");
+    background-size: cover;
+    background-position: 0 -50px;
+    background-repeat: no-repeat;
+    padding-top: 7%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.navigasi{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+h4{
+    color: black;
+}
+.image{
+    width: 250px;
+    height: 250px;
+    border: 10px solid #cccc;
+    border-radius: 50%;
+}
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: #fff;
+    background-color: #dc3545;
+}
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+.crop-img{
+    object-fit: cover;
+}
+a.sosial{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #333;
+    line-height: 40px;
+}
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak{
+    background: url("");
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+/* .tmbl{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(90, 82, 82);
+    font-weight: bold;
+} */
+
+a.profil{
+    display: inline-block;
+    width: 70px;
+    height: 40px;
+    border-radius: 20%;
+    color: #fff;
+    background-color: #333;
+    line-height: 40px;
+}
